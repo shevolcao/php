@@ -1,0 +1,5 @@
+<?php
+define('HOST', 'localhost');    // servidor
+define('USERNAME', 'root');        // usuario para conectar ao servidor
+define('PASSWORD', '!Azimute6');            // senha do usuario
+define('DBNAME', 'locadora');	// nome do banco de dados que desejamos conectar
